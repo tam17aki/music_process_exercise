@@ -31,7 +31,6 @@
 import librosa
 import librosa.display
 import matplotlib.pylab as plt
-import numpy as np
 
 # サンプルファイルの読み込み -> load関数
 # Args:
